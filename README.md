@@ -9,7 +9,7 @@
 <div align="center" style="margin: 20px 0">
   <img src="https://img.shields.io/badge/Full%20Stack-4D6BFE?style=flat&logo=fullpage&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel%20Expert-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Real--Time%20Systems-4DBA87?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire%20Pro-4DBA87?style=flat&logo=laravel-livewire&logoColor=white" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 ### 🔍 RetailOS - Smart Inventory System
 <div>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel" />
-  <img src="https://img.shields.io/badge/-Livewire-4DBA87?style=flat&logo=livewire" />
+  <img src="https://img.shields.io/badge/-Livewire-4DBA87?style=flat&logo=laravel-livewire" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
 </div>
 
@@ -32,9 +32,9 @@
 
 ### ⚡ ChatFlow - Real-Time Messenger
 <div>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=websocket" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery" />
 </div>
 
 ► **Core Features**: E2E encryption | Message recall | Typing indicators  
@@ -46,20 +46,21 @@
 
 ## 🛠️ Tech Stack
 
+**Full-Stack**  
+<img src="https://img.shields.io/badge/-Livewire-4DBA87?logo=laravel-livewire&style=flat" width="100" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=flat" width="90" />
+
 **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&style=flat)
-![Livewire](https://img.shields.io/badge/-Livewire-4DBA87?logo=laravel-livewire&style=flat)
+<img src="https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpinedotjs&style=flat" width="100" />
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=flat" width="90" />
 
 **Backend**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=flat)
+<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&style=flat" width="80" />
+<img src="https://img.shields.io/badge/-REST_API-FF6F00?logo=rest&style=flat" width="110" />
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&style=flat)
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat" width="90" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&style=flat" width="80" />
 
 ---
 
@@ -91,7 +92,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SunilThagyal.SunilThagyal" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=SunilThagyal.SunilThagyal" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4D6BFE&height=120&section=footer&animation=fadeIn)
