@@ -1,94 +1,74 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=4000&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&lines=✨+Hello+World!+I'm+Sunil+Thagyal;🚀+Full-Stack+Developer;🔥+Real-Time+App+Specialist;💡+Problem+Solver+Extraordinaire" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&size=36&duration=4000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+I'm+Sunil+Thagyal;🚀+Full-Stack+Developer;✨+Real-Time+App+Specialist;💡+Creative+Problem+Solver" alt="Header" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/SunilThagyal?tab=repositories" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code+✨+Innovate+✨+Elevate&fontSize=50&font=Poppins&fontAlignY=38&animation=twinkling&gradientStart=00F3FF&gradientEnd=8B5CF6" alt="Header Capsule" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Innovate%20•%20Build%20•%20Deploy&fontSize=38&fontColor=fff&animation=twinkling" alt="Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SunilThagyal&label=Profile+Views&color=7C4DFF&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/SunilThagyal?label=Followers&logo=github&style=flat-square&color=7C4DFF" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-7C4DFF?style=flat-square" alt="Open Source" />
+</div>
+
+<br>
+
+<!-- Projects Section -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+|     | Order Management System (OMS)                                  | Real-Time Chat Application (ChitChat)                         |
+|-----|---------------------------------------------------------------|-------------------------------------------------------------|
+| 🖼️ | <img src="https://i.imgur.com/XYz8v9E.png" width="300">        | <img src="https://i.imgur.com/mQ4L3qT.png" width="300">      |
+| 🔧 | **Laravel • Livewire • MySQL**                                | **React • Laravel • WebSocket**                             |
+| ✨ | Inventory Management • Sales Analytics • CRM                  | E2E Encryption • Group Chats • Push Notifications           |
+| 🔗 | [Repository](https://github.com/SunilThagyal/oms)             | [Repository](https://github.com/SunilThagyal/chitchat)      |
+
+</div>
+
+<br>
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,py,django,php,js,ts,html,css,tailwind,figma,mysql,redis,aws,git,github&theme=dark&perline=9" alt="Tech Stack" />
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/SunilThagyal">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&theme=radical&background=0d1117&hide_border=true" />
   </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunilThagyal&label=Profile+Views&color=00f3ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SunilThagyal?label=Followers&style=social&logo=github&color=8B5CF6" alt="Followers" />
+  <br><br>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=7C4DFF" />
 </div>
 
-<!-- Divider -->
+<br>
+
+## 🌟 Let's Connect
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rishavanand/rishavanand/master/images/divider.png" width="80%" alt="Divider" />
-</div>
-
-## 💼 Recent Projects
-
-### 📦 OMS - Order Management System
-<p align="center">
-  <strong>Tech Stack:</strong><br>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Livewire-4DBA87?style=flat-square&logo=laravel-livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<p align="center">
-  <strong>Key Features:</strong><br>
-  🗃️ Product Inventory Management • 📊 Sales Analytics Dashboard • 📈 Order Tracking System<br>
-  👥 Customer Relationship Management • 🔔 Real-time Stock Alerts
-</p>
-
----
-
-### 💬 ChitChat - Real-Time Messenger
-<p align="center">
-  <strong>Tech Stack:</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSocket" />
-</p>
-<p align="center">
-  <strong>Key Features:</strong><br>
-  🔒 End-to-End Encryption • 👥 Multi-channel Group Chats • 📨 Instant Message Delivery<br>
-  📱 Responsive Design • 🔔 Push Notifications
-</p>
-
-<!-- Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rishavanand/rishavanand/master/images/divider.png" width="80%" alt="Divider" />
-</div>
-
-## 🛠️ Tech Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,python,django,php,javascript,html,css,tailwind,bootstrap,mysql,redis,aws,git,github,figma&theme=dark&perline=8" alt="Tech Stack" />
-</div>
-
-## 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&theme=dracula&border_color=8B5CF6&bg_color=1F2937&title_color=00F3FF&text_color=E5E7EB&icon_color=8B5CF6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&theme=dracula&border=8B5CF6&background=1F2937&ring=00F3FF&fire=FF2D20&currStreakLabel=00F3FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilThagyal&layout=compact&theme=dracula&border_color=8B5CF6&bg_color=1F2937&title_color=00F3FF&text_color=E5E7EB" width="98%" />
-</div>
-
-## 🌟 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&theme=dracula&bg_color=1F2937&color=00F3FF&line=8B5CF6&point=FF2D20&hide_border=true&area=true" width="90%"/>
-</div>
-
-## 📬 Connect With Me
-<div align="center">
-  <a href="mailto:sunilthagyal60@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:sunilthagyal60@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
   </a>
-  <a href="https://linkedin.com/in/sunil-thagyal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/sunil-thagyal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
   </a>
-  <a href="https://twitter.com/SunilThagyal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/SunilThagyal">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🚀+Building+Tomorrow's+Solutions+Today;💻+Passionate+About+Clean+Code;🤝+Open+for+Collaborations" alt="Footer Animation" />
-</div>
+<br>
 
-<!-- Fun Element -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
-  <strong>Fun Fact:</strong> I once debugged a live app while sipping coffee at 3 AM! ☕💻
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&repeat=false&lines=🚀+Turning+ideas+into+reality+since+2020;💡+Passionate+about+clean+code+and+innovation;🌟+Always+learning%2C+always+growing" alt="Footer" />
+</div>
