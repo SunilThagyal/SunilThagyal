@@ -1,126 +1,102 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sunil+Thagyal;Full-Stack+Developer;Real-Time+App+Specialist;Continuous+Learner" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&lines=✨+Hello+World!+I'm+Sunil+Thagyal;🚀+Full-Stack+Developer;🔥+Real-Time+App+Specialist;💡+Problem+Solver;🌌+Tech+Enthusiast" alt="Animated Typing Header" />
 </h1>
 
 <p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSunilThagyal">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSunilThagyal&label=Visitors&labelColor=%2337d67a&countColor=%2300f3ff" alt="Visitor Counter"/>
+  <a href="https://github.com/SunilThagyal?tab=repositories">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Innovate+Build+Deploy&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Animated Header" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="80%"/>
+  <img src="https://komarev.com/ghpvc/?username=SunilThagyal&label=Profile+Views&color=00f3ff&style=flat" alt="Animated Visitor Counter" />
+  <img src="https://img.shields.io/github/followers/SunilThagyal?label=Followers&logo=github&style=social&color=00f3ff" alt="GitHub Followers" />
 </div>
 
-## 🌟 Featured Projects
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://github.com/SunilThagyal/SunilThagyal/blob/main/assets/divider.gif" alt="animated divider" width="100%">
+</div>
+
+## 🚀 Featured Projects
 
 <table>
-  <!-- OMS Project -->
   <tr>
-    <td width="60%">
-      <h3 align="center">📦 OMS - Order Management System</h3>
-      <p align="center">
-        <em>Full-featured solution for inventory and order processing</em>
-      </p>
-      <ul>
-        <li>📊 Real-time Inventory Tracking</li>
-        <li>📈 Sales Analytics Dashboard</li>
-        <li>📦 Multi-warehouse Support</li>
-        <li>📄 Automated Invoice Generation</li>
-        <li>🔔 Low Stock Alerts</li>
-      </ul>
-    </td>
-    <td width="40%">
+    <td width="50%">
+      <h3 align="center" style="color: #00f3ff">📦 OMS - Order Management System</h3>
       <div align="center">
         <a href="https://github.com/SunilThagyal/oms">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilThagyal&repo=oms&theme=radical&show_owner=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilThagyal&repo=oms&theme=react&show_owner=true&border_color=00f3ff" alt="OMS" />
         </a>
         <div>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Livewire-4DBA87?style=flat&logo=laravel-livewire&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white" />
-          <a href="https://oms.demo.com">
-            <img src="https://img.shields.io/badge/Live_Demo-37A779?style=flat&logo=heroku&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge&labelColor=black">
+          <img src="https://img.shields.io/badge/-Livewire-4DBA87?logo=laravel-livewire&logoColor=white&style=for-the-badge&labelColor=black">
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=black">
         </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Inventory%20Management-00f3ff?style=flat" />
+          <img src="https://img.shields.io/badge/Sales%20Analytics-00f3ff?style=flat" />
+          <img src="https://img.shields.io/badge/Order%20Tracking-00f3ff?style=flat" />
+        </p>
       </div>
     </td>
-  </tr>
-  
-  <!-- ChitChat Project -->
-  <tr><td colspan="2"><br></td></tr>
-  <tr>
-    <td width="60%">
-      <h3 align="center">💬 ChitChat - Real-Time Messenger</h3>
-      <p align="center">
-        <em>A secure, real-time chat application with end-to-end encryption</em>
-      </p>
-      <ul>
-        <li>🔒 AES-256 Message Encryption</li>
-        <li>👥 Group Chat with Admin Controls</li>
-        <li>⚡ Live Typing Indicators</li>
-      </ul>
-    </td>
-    <td width="40%">
+    <td width="50%">
+      <h3 align="center" style="color: #00f3ff">💬 ChitChat - Real-Time Messenger</h3>
       <div align="center">
-        <a href="https://github.com/SunilThagyal/chitchat_frontend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilThagyal&repo=chitchat&theme=radical&show_owner=true" />
+        <a href="https://github.com/SunilThagyal/chitchat">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilThagyal&repo=chitchat&theme=react&show_owner=true&border_color=00f3ff" alt="ChitChat" />
         </a>
         <div>
-          <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-          <a href="https://chitchat.demo.com">
-            <img src="https://img.shields.io/badge/Demo-FF7139?style=flat&logo=vercel&logoColor=white" />
-          </a>
+          <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=black">
+          <img src="https://img.shields.io/badge/-WebSockets-010101?logo=websocket&logoColor=white&style=for-the-badge&labelColor=black">
+          <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&labelColor=black">
         </div>
-      </div>
-    </td>
-  </tr>
-
-  <!-- TaskFlow Project -->
-  <tr><td colspan="2"><br></td></tr>
-  <tr>
-    <td width="60%">
-      <h3 align="center">📋 TaskFlow - Collaborative Platform</h3>
-      <p align="center">
-        <em>Real-time task management system</em>
-      </p>
-      <ul>
-        <li>🤝 Multi-team Collaboration</li>
-        <li>🔄 Live Updates with Broadcast</li>
-        <li>📊 Interactive Dashboards</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <a href="https://github.com/SunilThagyal/taskflow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilThagyal&repo=taskflow&theme=radical&show_owner=true" />
-        </a>
-        <div>
-          <img src="https://img.shields.io/badge/Livewire_3-4DBA87?style=flat&logo=laravel-livewire&logoColor=white" />
-          <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black" />
-          <a href="https://taskflow.demo.com">
-            <img src="https://img.shields.io/badge/Try_Demo-FF7139?style=flat&logo=vercel&logoColor=white" />
-          </a>
-        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/End--to--End%20Encryption-00f3ff?style=flat" />
+          <img src="https://img.shields.io/badge/Group%20Chats-00f3ff?style=flat" />
+          <img src="https://img.shields.io/badge/File%20Sharing-00f3ff?style=flat" />
+        </p>
       </div>
     </td>
   </tr>
 </table>
 
+<!-- Animated Tech Stack -->
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/SunilThagyal/oms?label=OMS%20Last%20Update&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/repo-size/SunilThagyal/oms?label=OMS%20Size&style=flat&color=success" />
+  <h2 style="color: #00f3ff">⚡ Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=laravel,react,py,django,php,js,html,css,tailwind,bootstrap,mysql,redis,aws,git,github,figma&theme=dark&perline=8" alt="Animated Skill Icons" />
 </div>
 
-## 🛠️ Tech Arsenal
-<!-- Keep existing tech stack section unchanged -->
+<!-- Animated Stats Cards -->
+<div align="center">
+  <h2 style="color: #00f3ff">📈 GitHub Analytics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&theme=react&border_color=00f3ff&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&theme=react&border=00f3ff" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilThagyal&layout=compact&theme=react&border_color=00f3ff" alt="Top Langs" />
+</div>
 
-## 📈 GitHub Analytics
-<!-- Keep existing stats section unchanged -->
+<!-- Animated Activity Graph -->
+<div align="center">
+  <h2 style="color: #00f3ff">🔥 Activity Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&theme=react-dark&bg_color=000000&hide_border=true&area=true&color=00f3ff" alt="Activity Graph" width="90%"/>
+</div>
 
-## 🤝 Let's Connect
-<!-- Keep existing connect section unchanged -->
+<!-- Animated Contact Section -->
+<div align="center">
+  <h2 style="color: #00f3ff">📬 Connect With Me</h2>
+  <a href="mailto:sunilthagyal60@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://linkedin.com/in/sunil-thagyal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://twitter.com/SunilThagyal">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" />
+  </a>
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunilThagyal/SunilThagyal/main/assets/footer.gif" alt="Animated Footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=🚀+Keep+Coding+Keep+Innovating;💡+Turning+Ideas+Into+Reality;🌟+Stay+Curious+Stay+Hungry" alt="Typing Footer" />
+</div>
