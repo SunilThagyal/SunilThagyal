@@ -116,17 +116,27 @@
 
 ## 🧰 Technical Arsenal
 
+### 🔧 Frameworks & Libraries
 <div align="center">
-  <!-- First Row: Core Technologies -->
-  <img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,tailwind,js&theme=dark" />
-  
-  <!-- Second Row: Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=php,py,django,html,css,git&theme=dark" />
-  
-  <!-- Third Row: Tools & Services -->
-  <img src="https://img.shields.io/badge/Livewire-4DBA87?logo=laravel-livewire&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=aws,github,figma,nodejs,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,livewire,django,jquery,react" style="margin:5px" />
+  <img src="https://img.shields.io/badge/AJAX-2386EA?logo=javascript&logoColor=white&style=for-the-badge" />
+</div>
+
+### 💻 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,js" style="margin:5px" />
+</div>
+
+### 🛠️ Tools & IDEs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" style="margin:5px" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white&style=for-the-badge" />
+</div>
+
+### 🌐 Real-Time Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=websocket" style="margin:5px" />
+  <img src="https://img.shields.io/badge/Broadcasting-300D4F?logo=pusher&logoColor=white&style=for-the-badge" />
 </div>
 </br>
 
