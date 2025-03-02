@@ -1,59 +1,87 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&size=36&duration=4000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+I'm+Sunil+Thagyal;🚀+Full-Stack+Developer;✨+Real-Time+App+Specialist;💡+Creative+Problem+Solver" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Sunil+Thagyal;💻+Full-Stack+Developer;🚀+Specializing+in+Real-Time+Systems;✨+Clean+Code+Advocate" alt="Header" />
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Innovate%20•%20Build%20•%20Deploy&fontSize=38&fontColor=fff&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4D6BFE&height=180&section=header&text=Build+•+Innovate+•+Elevate&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
 <br>
+
+## 🛠️ Core Projects
+
+### 📦 **OMS - Retail Management System**
+*(Order Management System for Store Operations)*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunilThagyal&label=Profile+Views&color=7C4DFF&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/github/followers/SunilThagyal?label=Followers&logo=github&style=flat-square&color=7C4DFF" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-7C4DFF?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Livewire-4DBA87?style=for-the-badge&logo=laravel-livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
+**Key Modules:**<br>
+🔹 **Store Management** - Multi-store inventory tracking<br>
+🔹 **Customer Hub** - CRM with purchase history<br>
+🔹 **Product Catalog** - SKU management with variants<br>
+🔹 **Order Processing** - End-to-end order lifecycle<br>
+🔹 **Analytics Dashboard** - Sales trends & KPIs
 
-<!-- Projects Section -->
-## 🚀 Featured Projects
+**Features:**<br>
+✓ Real-time stock updates<br>
+✓ Automated inventory alerts<br>
+✓ Multi-channel order syncing<br>
+✓ Customer loyalty programs<br>
+✓ PDF invoice generation
+
+---
+
+### 💬 **ChitChat - Instant Messenger**
+*(Real-Time Chat Application)*
 
 <div align="center">
-
-|     | Order Management System (OMS)                                  | Real-Time Chat Application (ChitChat)                         |
-|-----|---------------------------------------------------------------|-------------------------------------------------------------|
-| 🖼️ | <img src="https://i.imgur.com/XYz8v9E.png" width="300">        | <img src="https://i.imgur.com/mQ4L3qT.png" width="300">      |
-| 🔧 | **Laravel • Livewire • MySQL**                                | **React • Laravel • WebSocket**                             |
-| ✨ | Inventory Management • Sales Analytics • CRM                  | E2E Encryption • Group Chats • Push Notifications           |
-| 🔗 | [Repository](https://github.com/SunilThagyal/oms)             | [Repository](https://github.com/SunilThagyal/chitchat)      |
-
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
+
+**Core Features:**<br>
+🔹 Real-time message syncing<br>
+🔹 Google authentication<br>
+🔹 Chat room management<br>
+🔹 Message history storage<br>
+🔹 Responsive UI/UX design
+
+**Technical Highlights:**<br>
+✓ Firestore database integration<br>
+✓ Cloud Functions for backend logic<br>
+✓ Optimized state management<br>
+✓ Offline-first capabilities<br>
+✓ Push notifications
 
 <br>
 
-## 🛠 Tech Stack
+## 🧰 Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,py,django,php,js,ts,html,css,tailwind,figma,mysql,redis,aws,git,github&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,tailwind,js,html,css,git,github,figma,aws&theme=dark&perline=6" />
 </div>
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Development Insights
 
 <div align="center">
   <a href="https://github.com/SunilThagyal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&theme=radical&background=0d1117&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=4D6BFE&icon_color=4D6BFE&bg_color=0d1117&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4D6BFE&ring=4D6BFE&fire=4D6BFE&sideLabels=4D6BFE&hide_border=true" />
   </a>
-  <br><br>
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=7C4DFF" />
+  <br>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=4D6BFE&line=4D6BFE&point=FFFFFF&hide_border=true" />
 </div>
 
 <br>
 
-## 🌟 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:sunilthagyal60@gmail.com">
@@ -70,5 +98,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&repeat=false&lines=🚀+Turning+ideas+into+reality+since+2020;💡+Passionate+about+clean+code+and+innovation;🌟+Always+learning%2C+always+growing" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+solutions+with+clean+code;💡+Passionate+about+optimized+user+experiences;🌟+Open+for+collaborations+and+new+challenges" alt="Footer" />
 </div>
