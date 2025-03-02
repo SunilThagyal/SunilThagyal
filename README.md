@@ -26,7 +26,7 @@
 ► **Core Features**: Multi-store sync | Barcode integration | Predictive analytics  
 ► **Highlights**: 40% inventory reduction | Real-time POS integration | Automated reordering
 
-[![View Demo](https://img.shields.io/badge/View_Demo-4D6BFE?style=for-the-badge)](https://)
+[![View Demo](https://img.shields.io/badge/View_Demo-4D6BFE?style=for-the-badge)](https://example.com)
 
 ---
 
@@ -40,7 +40,7 @@
 ► **Core Features**: E2E encryption | Message recall | Typing indicators  
 ► **Performance**: <50ms latency | 10k+ concurrent users | 99.99% uptime
 
-[![Try Now](https://img.shields.io/badge/Try_Now-4D6BFE?style=for-the-badge)](https://)
+[![Try Now](https://img.shields.io/badge/Try_Now-4D6BFE?style=for-the-badge)](https://example.com)
 
 ---
 
