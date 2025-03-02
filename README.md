@@ -118,7 +118,8 @@
 
 ### 🔧 Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,livewire,django,jquery,react" style="margin:5px" />
+  <img src="https://skillicons.dev/icons?i=laravel,django,jquery,react" style="margin:5px" />
+  <img src="https://img.shields.io/badge/Livewire-4DBA87?logo=laravel-livewire&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AJAX-2386EA?logo=javascript&logoColor=white&style=for-the-badge" />
 </div>
 
@@ -130,13 +131,13 @@
 ### 🛠️ Tools & IDEs
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman" style="margin:5px" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge" />
 </div>
 
 ### 🌐 Real-Time Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=websocket" style="margin:5px" />
-  <img src="https://img.shields.io/badge/Broadcasting-300D4F?logo=pusher&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Broadcasting-300D4F?logo=google-cloud&logoColor=white&style=for-the-badge" />
 </div>
 </br>
 
