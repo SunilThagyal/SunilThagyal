@@ -56,58 +56,6 @@
 ✓ Optimized state management<br>
 ✓ Secure end-to-end encryption
 
----
-
-### 📊 **InsightBoard - Data Analytics Dashboard**
-*(Dynamic Data Visualization Platform)*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-**Key Capabilities:**<br>
-🔹 Interactive charts & graphs<br>
-🔹 Real-time data streaming<br>
-🔹 User-driven report generation<br>
-🔹 Role-based access control<br>
-🔹 Export to CSV & PDF
-
-**Technical Highlights:**<br>
-✓ RESTful API architecture<br>
-✓ WebSocket for live updates<br>
-✓ Data caching optimization<br>
-✓ Docker containerization<br>
-✓ JWT-based authentication<br>
-✓ Customizable widgets and reports
-
----
-
-### 🤝 **CollabSync - Team Collaboration Platform**
-*(Seamless Project Collaboration and Task Management)*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</div>
-
-**Core Features:**<br>
-🔹 Task assignment & tracking<br>
-🔹 Real-time collaboration<br>
-🔹 Document sharing & commenting<br>
-🔹 Calendar & milestone management<br>
-🔹 Team performance insights
-
-**Technical Highlights:**<br>
-✓ Server-side rendering (SSR)<br>
-✓ Subscription-based live updates<br>
-✓ Optimized query performance<br>
-✓ Role-based permissions<br>
-✓ Integrated calendar API<br>
-✓ Scalable architecture
-
 <br>
 
 ## 🧰 Technical Arsenal
