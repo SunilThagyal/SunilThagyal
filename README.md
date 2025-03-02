@@ -86,12 +86,38 @@
 ✓ JWT-based authentication<br>
 ✓ Customizable widgets and reports
 
+---
+
+### 🤝 **CollabSync - Team Collaboration Platform**
+*(Seamless Project Collaboration and Task Management)*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</div>
+
+**Core Features:**<br>
+🔹 Task assignment & tracking<br>
+🔹 Real-time collaboration<br>
+🔹 Document sharing & commenting<br>
+🔹 Calendar & milestone management<br>
+🔹 Team performance insights
+
+**Technical Highlights:**<br>
+✓ Server-side rendering (SSR)<br>
+✓ Subscription-based live updates<br>
+✓ Optimized query performance<br>
+✓ Role-based permissions<br>
+✓ Integrated calendar API<br>
+✓ Scalable architecture
+
 <br>
 
 ## 🧰 Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,laravel,django,livewire,react,firebase,mysql,tailwind,js,jquery,html,css,ajax,git,github,figma,aws&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,django,livewire,react,nextjs,firebase,mysql,tailwind,js,jquery,html,css,ajax,git,github,figma,aws&theme=dark&perline=6" />
 </div>
 
 <br>
@@ -101,7 +127,7 @@
 <div align="center">
   <a href="https://github.com/SunilThagyal">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=4D6BFE&icon_color=4D6BFE&bg_color=0d1117&hide_border=true&text_color=FFFFFF" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4D6BFE&ring=4D6BFE&fire=4D6BFE&sideLabels=4D6BFE&hide_border=true&color=FFFFFF" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4D6BFE&ring=4D6BFE&fire=4D6BFE&sideLabels=4D6BFE&hide_border=true&stroke=FFFFFF" />
   </a>
   <br>
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=4D6BFE&line=4D6BFE&point=FFFFFF&hide_border=true" />
@@ -113,18 +139,13 @@
 
 <div align="center">
   <a href="mailto:sunilthagyal60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4D6BFE" />
   </a>
   <a href="https://linkedin.com/in/sunil-thagyal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4D6BFE" />
   </a>
   <a href="https://twitter.com/SunilThagyal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=4D6BFE" />
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+scalable+solutions+with+clean+code;%F0%9F%92%A1+Passionate+about+optimized+user+experiences;%F0%9F%8C%9F+Open+for+collaborations+and+new+challenges" alt="Footer" />
-</div>
