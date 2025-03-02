@@ -86,12 +86,38 @@
 ✓ JWT-based authentication<br>
 ✓ Customizable widgets and reports
 
+---
+
+### 🤝 **CollabSync - Team Collaboration Platform**
+*(Seamless Project Collaboration and Task Management)*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</div>
+
+**Core Features:**<br>
+🔹 Task assignment & tracking<br>
+🔹 Real-time collaboration<br>
+🔹 Document sharing & commenting<br>
+🔹 Calendar & milestone management<br>
+🔹 Team performance insights
+
+**Technical Highlights:**<br>
+✓ Server-side rendering (SSR)<br>
+✓ Subscription-based live updates<br>
+✓ Optimized query performance<br>
+✓ Role-based permissions<br>
+✓ Integrated calendar API<br>
+✓ Scalable architecture
+
 <br>
 
 ## 🧰 Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,laravel,django,livewire,react,firebase,mysql,tailwind,js,jquery,html,css,ajax,git,github,figma,aws&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,django,livewire,react,nextjs,firebase,mysql,tailwind,js,jquery,html,css,ajax,git,github,figma,aws&theme=dark&perline=6" />
 </div>
 
 <br>
@@ -119,13 +145,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4D6BFE" />
   </a>
   <a href="https://twitter.com/SunilThagyal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=4D6BFE" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=4D6BFE" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+scalable+solutions+with+clean+code;%F0%9F%92%A1+Passionate+about+optimized+user+experiences;%F0%9F%8C%9F+Open+for+collaborations+and+new+challenges" alt="Footer" />
 </div>
 
