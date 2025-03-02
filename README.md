@@ -127,12 +127,11 @@
 <div align="center">
   <a href="https://github.com/SunilThagyal">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=4D6BFE&icon_color=4D6BFE&bg_color=0d1117&hide_border=true&text_color=FFFFFF" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4D6BFE&ring=4D6BFE&fire=4D6BFE&sideLabels=4D6BFE&hide_border=true&stroke=FFFFFF" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&theme=dark&background=0d1117&ring=4D6BFE&fire=4D6BFE&currStreakLabel=4D6BFE&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&hide_border=true" />
   </a>
   <br>
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=4D6BFE&line=4D6BFE&point=FFFFFF&hide_border=true" />
 </div>
-
 <br>
 
 ## 🌐 Connect With Me
