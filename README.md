@@ -66,7 +66,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <a href="https://github.com/SunilThagyal/chitchat">
+        <a href="https://github.com/SunilThagyal/chitchat_frontend">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunilThagyal&repo=chitchat&theme=radical&show_owner=true" />
         </a>
         <div>
