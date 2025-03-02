@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Sunil+Thagyal;💻+Full-Stack+Developer;🚀+Specializing+in+Real-Time+Systems;✨+Clean+Code+Advocate" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Sunil+Thagyal;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Specializing+in+Real-Time+Systems;%E2%9C%A8+Clean+Code+Advocate" alt="Header" />
 </h1>
 
 <div align="center">
@@ -31,7 +31,8 @@
 ✓ Automated inventory alerts<br>
 ✓ Multi-channel order syncing<br>
 ✓ Customer loyalty programs<br>
-✓ PDF invoice generation
+✓ PDF invoice generation<br>
+✓ Advanced search with filters
 
 ---
 
@@ -56,7 +57,8 @@
 ✓ Cloud Functions for backend logic<br>
 ✓ Optimized state management<br>
 ✓ Offline-first capabilities<br>
-✓ Push notifications
+✓ Push notifications<br>
+✓ Secure end-to-end encryption
 
 ---
 
@@ -81,7 +83,8 @@
 ✓ WebSocket for live updates<br>
 ✓ Data caching optimization<br>
 ✓ Docker containerization<br>
-✓ JWT-based authentication
+✓ JWT-based authentication<br>
+✓ Customizable widgets and reports
 
 <br>
 
@@ -97,8 +100,8 @@
 
 <div align="center">
   <a href="https://github.com/SunilThagyal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=4D6BFE&icon_color=4D6BFE&bg_color=0d1117&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4D6BFE&ring=4D6BFE&fire=4D6BFE&sideLabels=4D6BFE&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=4D6BFE&icon_color=4D6BFE&bg_color=0d1117&hide_border=true&text_color=FFFFFF" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4D6BFE&ring=4D6BFE&fire=4D6BFE&sideLabels=4D6BFE&hide_border=true&stroke=FFFFFF" />
   </a>
   <br>
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=4D6BFE&line=4D6BFE&point=FFFFFF&hide_border=true" />
@@ -123,6 +126,6 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+solutions+with+clean+code;💡+Passionate+about+optimized+user+experiences;🌟+Open+for+collaborations+and+new+challenges" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+scalable+solutions+with+clean+code;%F0%9F%92%A1+Passionate+about+optimized+user+experiences;%F0%9F%8C%9F+Open+for+collaborations+and+new+challenges" alt="Footer" />
 </div>
 
