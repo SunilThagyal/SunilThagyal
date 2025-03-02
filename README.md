@@ -117,10 +117,18 @@
 ## 🧰 Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,laravel,django,livewire,react,nextjs,firebase,mysql,tailwind,js,jquery,html,css,ajax,git,github,figma,aws&theme=dark&perline=6" />
+  <!-- First Row: Core Technologies -->
+  <img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,tailwind,js&theme=dark" />
+  
+  <!-- Second Row: Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=php,py,django,html,css,git&theme=dark" />
+  
+  <!-- Third Row: Tools & Services -->
+  <img src="https://img.shields.io/badge/Livewire-4DBA87?logo=laravel-livewire&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=aws,github,figma,nodejs,postgres&theme=dark" />
 </div>
-
-<br>
+</br>
 
 ## 📊 Development Insights
 
