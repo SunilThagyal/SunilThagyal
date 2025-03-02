@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Sunil+Thagyal;💻+Full-Stack+Developer;🚀+Specializing+in+Real-Time+Systems;✨+Clean+Code+Advocate" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Sunil+Thagyal;💻+Full-Stack+Developer;🚀+Specializing+in+Real-Time+Systems;✨+Clean+Code+Advocate" alt="Header" />
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=180&section=header&text=Build+•+Innovate+•+Elevate&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Build+•+Innovate+•+Elevate&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Livewire-4DBA87?style=for-the-badge&logo=laravel-livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 **Key Modules:**<br>
@@ -40,8 +40,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 **Core Features:**<br>
@@ -63,7 +63,7 @@
 ## 🧰 Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,tailwind,js,html,css,git,github,figma,aws&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,django,livewire,react,firebase,mysql,tailwind,js,jquery,html,css,ajax,git,github,figma,aws&theme=dark&perline=6" />
 </div>
 
 <br>
@@ -72,11 +72,11 @@
 
 <div align="center">
   <a href="https://github.com/SunilThagyal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=4A90E2&icon_color=4A90E2&bg_color=0d1117&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=4A90E2&ring=4A90E2&fire=4A90E2&sideLabels=4A90E2&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilThagyal&show_icons=true&title_color=8A2BE2&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilThagyal&background=0d1117&currStreakLabel=8A2BE2&ring=8A2BE2&fire=8A2BE2&sideLabels=8A2BE2&hide_border=true" />
   </a>
   <br>
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=4A90E2&line=4A90E2&point=FFFFFF&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&hide_border=true" />
 </div>
 
 <br>
@@ -98,5 +98,6 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+solutions+with+clean+code;💡+Passionate+about+optimized+user+experiences;🌟+Open+for+collaborations+and+new+challenges" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+solutions+with+clean+code;💡+Passionate+about+optimized+user+experiences;🌟+Open+for+collaborations+and+new+challenges" alt="Footer" />
 </div>
+
