@@ -96,17 +96,3 @@
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThagyal&bg_color=0d1117&color=4D6BFE&line=4D6BFE&point=FFFFFF&hide_border=true" />
 </div>
 <br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:sunilthagyal60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4D6BFE" />
-  </a>
-  <a href="https://linkedin.com/in/sunil-thagyal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4D6BFE" />
-  </a>
-  <a href="https://twitter.com/SunilThagyal">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=4D6BFE" />
-  </a>
-</div>
