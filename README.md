@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Sunil+Kumar;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Specializing+in+Real-Time+Systems;%E2%9C%A8+Clean+Code+Advocate" alt="Header" />
-</h1>
+<!-- <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=4D6BFE&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Devi+fyo;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Specializing+in+Real-Time+Systems;%E2%9C%A8+Clean+Code+Advocate" alt="Header" />
+</h1> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4D6BFE&height=180&section=header&text=Build+•+Innovate+•+Elevate&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header" />
